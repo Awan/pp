@@ -2,7 +2,7 @@
 
 A snippets paste and get tool written in Python which also support syntax highlight on web.
 
-** Usage
+* Usage
 
 pp filetoupload 'language you wanna enable highlight syntax'
 
